@@ -20,7 +20,7 @@ A lightweight command-line tool written in Python that analyzes your local Git r
 ## 📦 Getting Started
 
 ### 1. Clone the Repository
-git clone https://github.com/bighnaraj2008-ai/git-streak-cli.git
+git clone https://github.com/bighnaraj2008-ai/git-streak-cli.git,
 cd git-streak-cli
 
 ### 2. Run the Script
